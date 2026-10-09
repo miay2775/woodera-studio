@@ -1,0 +1,14 @@
+{
+  "domain": "woodera-studio.ru",
+  "root_a": [
+    "185.199.108.153",
+    "185.199.109.153",
+    "185.199.110.153",
+    "185.199.111.153"
+  ],
+  "www_cname": "miay2775.github.io",
+  "remove_root_a": [
+    "5.101.152.161"
+  ],
+  "preserve_existing_mx_txt": true
+}
