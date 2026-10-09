@@ -2,6 +2,11 @@ name: Sync Beget DNS
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'dns/**'
 
 permissions:
   contents: read
