@@ -10,5 +10,6 @@
   "remove_root_a": [
     "5.101.152.161"
   ],
-  "preserve_existing_mx_txt": true
+  "preserve_existing_mx_txt": true,
+  "revision": 1
 }
