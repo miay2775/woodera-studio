@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://woodera-studio.ru/sitemap.xml
