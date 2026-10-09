@@ -20,16 +20,17 @@ def call(method, payload=None):
     password = os.environ.get("BEGET_PASSWORD", "")
     if not login or not password:
         fail("GitHub secrets are missing")
-    p = {"login":login,"passwd":password,"output_format":"json"}
+    p = {"login": login, "passwd": password, "output_format": "json"}
     if payload is not None:
         p["input_format"] = "json"
-        p["input_data"] = json.dumps(payload, separators=(",",":"))
+        p["input_data"] = json.dumps(payload, separators=(",", ":"))
     req = urllib.request.Request(f"{API}/{method}?{urllib.parse.urlencode(p)}")
     try:
         data = json.loads(urllib.request.urlopen(req, timeout=30).read().decode())
     except Exception as e:
         fail(f"API request failed: {e}")
-    if data.get("status") != "success": fail(data)
+    if data.get("status") != "success":
+        fail(data)
     ans = data.get("answer", {})
     if isinstance(ans, dict) and ans.get("status") not in (None, "success"):
         fail(ans)
@@ -38,29 +39,53 @@ def call(method, payload=None):
 
 def main():
     desired = json.loads(Path(__file__).with_name("desired.json").read_text())
-    if desired.get("domain") != DOMAIN: fail("Unexpected domain")
-    if set(desired.get("root_a", [])) != set(A_SET): fail("Unexpected A records")
-    if str(desired.get("www_cname", "")).rstrip(".") != CNAME: fail("Unexpected CNAME")
+    if desired.get("domain") != DOMAIN:
+        fail("Unexpected domain")
+    if set(desired.get("root_a", [])) != set(A_SET):
+        fail("Unexpected A records")
+    if str(desired.get("www_cname", "")).rstrip(".") != CNAME:
+        fail("Unexpected CNAME")
 
-    root = call("dns/getData", {"fqdn":DOMAIN})
-    if not isinstance(root, dict) or not root.get("is_beget_dns"): fail("Domain is not on Beget DNS")
+    root = call("dns/getData", {"fqdn": DOMAIN})
+    if not isinstance(root, dict) or not root.get("is_beget_dns"):
+        fail("Domain is not on Beget DNS")
     print("Beget API access OK")
 
-    ok = call("dns/changeRecords", {"fqdn":DOMAIN,"records":{"A":[{"priority":0,"value":x} for x in A_SET],"MX":MX,"TXT":TXT}})
-    if ok is not True: fail(f"Root DNS update returned {ok!r}")
+    ok = call("dns/changeRecords", {
+        "fqdn": DOMAIN,
+        "records": {
+            "A": [{"priority": 0, "value": x} for x in A_SET],
+            "MX": MX,
+            "TXT": TXT,
+        },
+    })
+    if ok is not True:
+        fail(f"Root DNS update returned {ok!r}")
     print("Root DNS updated")
 
-    domains = call("domain/getList") or []
-    row = next((x for x in domains if x.get("fqdn") == DOMAIN), None)
-    if not row: fail("Domain not found")
-    subs = call("domain/getSubdomainList") or []
+    # Beget reserves the www label and rejects domain/addSubdomainVirtual for it.
+    # Configure www directly as a DNS CNAME instead.
     fqdn = "www." + DOMAIN
-    if not any(x.get("fqdn") == fqdn for x in subs):
-        call("domain/addSubdomainVirtual", {"subdomain":"www","domain_id":int(row["id"])})
-        print("www created")
-    ok = call("dns/changeRecords", {"fqdn":fqdn,"records":{"CNAME":[{"priority":10,"value":CNAME}]}})
-    if ok is not True: fail(f"www update returned {ok!r}")
-    print("SUCCESS: DNS accepted by Beget")
+    ok = call("dns/changeRecords", {
+        "fqdn": fqdn,
+        "records": {"CNAME": [{"priority": 10, "value": CNAME}]},
+    })
+    if ok is not True:
+        fail(f"www update returned {ok!r}")
+    print("www CNAME updated")
+
+    # Verify both records through Beget API.
+    root_after = call("dns/getData", {"fqdn": DOMAIN})
+    www_after = call("dns/getData", {"fqdn": fqdn})
+    root_a = {str(x.get("value")) for x in (root_after.get("records") or {}).get("A", [])}
+    www_cname = {str(x.get("value", "")).rstrip(".") for x in (www_after.get("records") or {}).get("CNAME", [])}
+    if root_a != set(A_SET):
+        fail(f"Root A verification failed: {sorted(root_a)}")
+    if CNAME not in www_cname:
+        fail(f"www CNAME verification failed: {sorted(www_cname)}")
+
+    print("SUCCESS: DNS accepted and verified by Beget")
 
 
-if __name__ == "__main__": main()
+if __name__ == "__main__":
+    main()
