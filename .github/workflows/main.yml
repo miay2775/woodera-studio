@@ -27,14 +27,15 @@ jobs:
 
       - name: Check GitHub Pages and request HTTPS
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GH_PAGES_ADMIN_TOKEN }}
           GH_REPO: ${{ github.repository }}
         run: |
           python3 - <<'PY'
           import json, os, urllib.request, urllib.error
-
           repo = os.environ['GH_REPO']
           token = os.environ['GH_TOKEN']
+          if not token:
+              raise SystemExit('GH_PAGES_ADMIN_TOKEN is missing')
           url = f'https://api.github.com/repos/{repo}/pages'
           headers = {
               'Accept': 'application/vnd.github+json',
@@ -42,17 +43,14 @@ jobs:
               'X-GitHub-Api-Version': '2026-03-10',
               'User-Agent': 'WOODERA-Pages-Bridge/1.0',
           }
-
           def request(method='GET', payload=None):
               data = None if payload is None else json.dumps(payload).encode('utf-8')
               req = urllib.request.Request(url, data=data, method=method, headers=headers)
               try:
                   with urllib.request.urlopen(req, timeout=30) as r:
-                      body = r.read().decode('utf-8')
-                      return r.status, body
+                      return r.status, r.read().decode('utf-8')
               except urllib.error.HTTPError as e:
                   return e.code, e.read().decode('utf-8', errors='replace')
-
           status, body = request()
           print(f'Pages status HTTP {status}')
           if status == 200:
@@ -63,11 +61,10 @@ jobs:
               if info.get('https_enforced'):
                   print('SUCCESS: HTTPS is already enforced')
                   raise SystemExit(0)
-
           status, body = request('PUT', {'https_enforced': True})
           if status == 204:
               print('SUCCESS: HTTPS enforcement enabled')
           else:
               print(f'HTTPS not enabled yet; GitHub returned HTTP {status}: {body[:500]}')
-              print('DNS may still be propagating or the workflow token may lack repository administration permission.')
+              raise SystemExit(1)
           PY
