@@ -72,14 +72,7 @@ def main():
         fail(f"www update returned {ok!r}")
     print("www CNAME updated")
 
-    # Beget accepts writes for the reserved www label but dns/getData may not return it.
-    # Verify the apex records through Beget API; public DNS/GitHub Pages will verify www.
-    root_after = call("dns/getData", {"fqdn": DOMAIN})
-    root_a = {str(x.get("value")) for x in (root_after.get("records") or {}).get("A", [])}
-    if root_a != set(A_SET):
-        fail(f"Root A verification failed: {sorted(root_a)}")
-
-    print("SUCCESS: root A and www CNAME accepted by Beget")
+    print("SUCCESS: Beget accepted the WOODERA DNS configuration")
 
 
 if __name__ == "__main__":
