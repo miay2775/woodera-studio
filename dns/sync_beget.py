@@ -8,7 +8,7 @@ The script is intentionally scoped to woodera-studio.ru and only uses:
 - dns/getData
 - dns/changeRecords
 
-Credentials are read only from BEGET_LOGIN and BEGET_API_PASSWORD.
+Credentials are read only from BEGET_LOGIN and BEGET_PASSWORD.
 """
 
 from __future__ import annotations
@@ -32,9 +32,9 @@ def fail(message: str) -> None:
 
 def api_call(method: str, payload: dict | None = None):
     login = os.environ.get("BEGET_LOGIN", "").strip()
-    password = os.environ.get("BEGET_API_PASSWORD", "")
+    password = os.environ.get("BEGET_PASSWORD", "")
     if not login or not password:
-        fail("BEGET_LOGIN / BEGET_API_PASSWORD are not configured")
+        fail("BEGET_LOGIN / BEGET_PASSWORD are not configured")
 
     params = {
         "login": login,
