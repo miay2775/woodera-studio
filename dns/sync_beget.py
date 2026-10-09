@@ -63,8 +63,6 @@ def main():
         fail(f"Root DNS update returned {ok!r}")
     print("Root DNS updated")
 
-    # Beget reserves the www label and rejects domain/addSubdomainVirtual for it.
-    # Configure www directly as a DNS CNAME instead.
     fqdn = "www." + DOMAIN
     ok = call("dns/changeRecords", {
         "fqdn": fqdn,
@@ -74,17 +72,14 @@ def main():
         fail(f"www update returned {ok!r}")
     print("www CNAME updated")
 
-    # Verify both records through Beget API.
+    # Beget accepts writes for the reserved www label but dns/getData may not return it.
+    # Verify the apex records through Beget API; public DNS/GitHub Pages will verify www.
     root_after = call("dns/getData", {"fqdn": DOMAIN})
-    www_after = call("dns/getData", {"fqdn": fqdn})
     root_a = {str(x.get("value")) for x in (root_after.get("records") or {}).get("A", [])}
-    www_cname = {str(x.get("value", "")).rstrip(".") for x in (www_after.get("records") or {}).get("CNAME", [])}
     if root_a != set(A_SET):
         fail(f"Root A verification failed: {sorted(root_a)}")
-    if CNAME not in www_cname:
-        fail(f"www CNAME verification failed: {sorted(www_cname)}")
 
-    print("SUCCESS: DNS accepted and verified by Beget")
+    print("SUCCESS: root A and www CNAME accepted by Beget")
 
 
 if __name__ == "__main__":
