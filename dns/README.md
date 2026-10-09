@@ -12,9 +12,9 @@ This directory contains a deliberately restricted Beget DNS synchronization scri
 Create two Actions repository secrets:
 
 - `BEGET_LOGIN`
-- `BEGET_API_PASSWORD`
+- `BEGET_PASSWORD`
 
-Use a dedicated Beget API password, not the normal Beget account password.
+Use a dedicated Beget API password as the value of `BEGET_PASSWORD`, not the normal Beget account password.
 
 ## Workflow
 
