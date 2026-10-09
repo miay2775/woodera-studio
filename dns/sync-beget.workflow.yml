@@ -1,0 +1,20 @@
+name: Sync Beget DNS
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Sync WOODERA DNS in Beget
+        env:
+          BEGET_LOGIN: ${{ secrets.BEGET_LOGIN }}
+          BEGET_PASSWORD: ${{ secrets.BEGET_PASSWORD }}
+        run: python3 dns/sync_beget.py
