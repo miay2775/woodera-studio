@@ -1,0 +1,143 @@
+{
+  "content": [
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/kapovy-klen/desktop/01.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/kapovy-klen/mobile/01.jpg",
+            "alt": "WOODERA — Единственный экземпляр. Столик из капового клёна, изделие в единственном экземпляре.",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/kapovy-klen/desktop/02.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/kapovy-klen/mobile/02.jpg",
+            "alt": "WOODERA — Уникальный рисунок. Столик из капового клёна, изделие в единственном экземпляре.",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/kapovy-klen/desktop/03.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/kapovy-klen/mobile/03.jpg",
+            "alt": "WOODERA — Макросъёмка древесины. Столик из капового клёна, изделие в единственном экземпляре.",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/kapovy-klen/desktop/04.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/kapovy-klen/mobile/04.jpg",
+            "alt": "WOODERA — Каповая структура. Столик из капового клёна, изделие в единственном экземпляре.",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/kapovy-klen/desktop/05.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/kapovy-klen/mobile/05.jpg",
+            "alt": "WOODERA — Масло с воском + твёрдый воск. Столик из капового клёна, изделие в единственном экземпляре.",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/kapovy-klen/desktop/06.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/kapovy-klen/mobile/06.jpg",
+            "alt": "WOODERA — 55 × 40 × 45,5 см. Столик из капового клёна, изделие в единственном экземпляре.",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/kapovy-klen/desktop/07.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/kapovy-klen/mobile/07.jpg",
+            "alt": "WOODERA — Сборка до 5 минут. Столик из капового клёна, изделие в единственном экземпляре.",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "title": {
+        "content": [
+          "Журнальный стол WOODERA из капового клёна — единственный экземпляр"
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "content": [
+          "Живой спил капового клёна с неповторимым рисунком годичных колец и волокон. Поверхность тщательно обработана маслом с воском и финишным твёрдым воском от премиальных итальянских производителей. Результат — шелковисто-матовое покрытие с деликатными природными бликами. Размер столешницы 55 × 40 см, толщина 5,5 см, общая высота 45,5 см. Для безопасной доставки стол поставляется в разобранном виде; сборка ножек занимает не более пяти минут. Покупатель получает именно тот стол, который показан на фотографиях."
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    }
+  ],
+  "version": 0.3
+}
