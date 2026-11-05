@@ -1,0 +1,389 @@
+{
+  "content": [
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/desktop/IMG_8238.jpeg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/mobile/IMG_8246.jpeg",
+            "alt": "WOODERA — каповый горный тополь, природа создаёт шедевры. Уникальный журнальный стол из цельного спила.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Природа создаёт шедевры"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "WOODERA бережно раскрывает их красоту. Перед вами эксклюзивный журнальный столик из цельного спила капового горного тополя. Это не серийная мебель, а уникальный дизайнерский предмет интерьера, в котором природа сохранила свою историю."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/desktop/IMG_8239.jpeg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/mobile/IMG_8247.jpeg",
+            "alt": "WOODERA — каповый горный тополь, единственный в своём роде. Уникальный журнальный стол из цельного спила.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Единственный в своём роде"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Каждый год жизни дерева оставил на поверхности свой след. Выразительные годичные кольца расходятся от сердцевины, переплетаясь с контрастными тёмными включениями, необычной каповой текстурой и сложными природными линиями. Повторить такой рисунок невозможно."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/desktop/IMG_8240.jpeg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/mobile/IMG_8248.jpeg",
+            "alt": "WOODERA — каповый горный тополь, рисунок, созданный природой. Уникальный журнальный стол из цельного спила.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Рисунок, созданный природой"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Светлые участки массива чередуются с глубокими тёмными прожилками и непредсказуемыми переходами фактуры. Рассматривая поверхность с разных ракурсов, вы каждый раз замечаете новые детали. Именно они делают этот спил абсолютно неповторимым."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/desktop/IMG_8241.jpeg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/mobile/IMG_8249.jpeg",
+            "alt": "WOODERA — каповый горный тополь, скульптурный живой край. Уникальный журнальный стол из цельного спила.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Скульптурный живой край"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Особенно впечатляет массивный природный край столешницы. Его рельеф, естественные наросты и переходы оттенков делают стол похожим на произведение искусства, созданное самой природой. Эта форма не воспроизводится по шаблону."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/desktop/IMG_8242.jpeg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/mobile/IMG_8250.jpeg",
+            "alt": "WOODERA — каповый горный тополь, природный характер сохранён. Уникальный журнальный стол из цельного спила.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Природный характер сохранён"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Древесина проходит тщательную обработку и многоэтапную шлифовку. Природные трещины стабилизированы и заполнены эпоксидной смолой. Так сохраняется выразительный характер спила и укрепляются обработанные участки."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/desktop/IMG_8243.jpeg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/mobile/IMG_8251.jpeg",
+            "alt": "WOODERA — каповый горный тополь, двойная итальянская защита. Уникальный журнальный стол из цельного спила.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Двойная итальянская защита"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Первый этап — премиальное итальянское грунтовочное масло, подчёркивающее глубину цвета и природный рисунок. Второй этап — итальянский карнаубский воск, создающий дополнительный защитный слой. Покрытие оставляет древесину тактильно приятной, с благородной шелковисто-матовой поверхностью и мягкими естественными бликами."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/desktop/IMG_8244.jpeg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/mobile/IMG_8252.jpeg",
+            "alt": "WOODERA — каповый горный тополь, выразительный акцент интерьера. Уникальный журнальный стол из цельного спила.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Выразительный акцент интерьера"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Размер столешницы — 50 × 50 см, толщина спила — 6,5 см, общая высота — 46,5 см, вес — 8 кг. Лаконичные чёрные металлические ножки визуально облегчают массив. Используйте изделие как журнальный или кофейный столик у дивана, в кабинете или уютной зоне отдыха."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/desktop/IMG_8245.jpeg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/mobile/IMG_8253.jpeg",
+            "alt": "WOODERA — каповый горный тополь, ваш личный фрагмент природы. Уникальный журнальный стол из цельного спила.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Ваш личный фрагмент природы"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "В мире одинаковых вещей особенно ценны предметы, которые существуют только в одном экземпляре. Этот стол нельзя воспроизвести по чертежу или изготовить второй точно такой же. Вы выбираете не просто деревянный столик, а эксклюзивную мебель с собственным характером. WOODERA — красота, которую невозможно повторить."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    }
+  ],
+  "version": 0.3
+}
