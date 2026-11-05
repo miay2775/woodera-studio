@@ -1,0 +1,165 @@
+{
+  "content": [
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/desktop/01.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/mobile/01.jpg",
+            "alt": "WOODERA, журнальный столик из капового горного тополя. Природа. Единственный экземпляр.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/desktop/02.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/mobile/02.jpg",
+            "alt": "WOODERA, журнальный столик из капового горного тополя. Невозможно повторить",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/desktop/03.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/mobile/03.jpg",
+            "alt": "WOODERA, журнальный столик из капового горного тополя. Рисунок, созданный самой природой",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/desktop/04.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/mobile/04.jpg",
+            "alt": "WOODERA, журнальный столик из капового горного тополя. Живой край без повторений",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/desktop/05.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/mobile/05.jpg",
+            "alt": "WOODERA, журнальный столик из капового горного тополя. Красота природы. Продуманная защита.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/desktop/06.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/mobile/06.jpg",
+            "alt": "WOODERA, журнальный столик из капового горного тополя. Два этапа премиального финиша",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/desktop/07.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/mobile/07.jpg",
+            "alt": "WOODERA, журнальный столик из капового горного тополя. Выразительный. Компактный.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/desktop/08.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-topol-kapovyy/mobile/08.jpg",
+            "alt": "WOODERA, журнальный столик из капового горного тополя. Ваш личный фрагмент природы",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 0.3
+}
