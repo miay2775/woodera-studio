@@ -1,0 +1,389 @@
+{
+  "version": 0.3,
+  "content": [
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-karagach-71x52/desktop/IMG_8280.jpeg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-karagach-71x52/mobile/IMG_8271.jpeg",
+            "alt": "WOODERA. Природа создаёт единственный экземпляр. Стол из цельного спила горного карагача.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Природа создаёт единственный экземпляр"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Перед вами журнальный стол WOODERA из цельного спила горного карагача. Его природная форма, рисунок волокон и оттенки не повторяются ни в одном другом изделии."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-karagach-71x52/desktop/IMG_8281.jpeg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-karagach-71x52/mobile/IMG_8272.jpeg",
+            "alt": "WOODERA. История в каждом кольце. Стол из цельного спила горного карагача.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "История в каждом кольце"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Выразительные годичные кольца расходятся от сердцевины, создавая сложный, почти графичный узор. Сдержанные песочно-ореховые оттенки и глубокие прожилки оставлены в естественной цветовой гамме."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-karagach-71x52/desktop/IMG_8282.jpeg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-karagach-71x52/mobile/IMG_8273.jpeg",
+            "alt": "WOODERA. Массив, который впечатляет. Стол из цельного спила горного карагача.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Массив, который впечатляет"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Размер столешницы — 71 × 52 см (широкая и узкая стороны природного спила). Толщина натурального массива — 8 см; общая высота столика — 48 см."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-karagach-71x52/desktop/IMG_8283.jpeg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-karagach-71x52/mobile/IMG_8274.jpeg",
+            "alt": "WOODERA. Бережно сохранённая природа. Стол из цельного спила горного карагача.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Бережно сохранённая природа"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Естественные трещины стабилизированы и заполнены эпоксидной смолой. Такая обработка помогает сохранить индивидуальность спила, не скрывая его характерные особенности."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-karagach-71x52/desktop/IMG_8284.jpeg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-karagach-71x52/mobile/IMG_8275.jpeg",
+            "alt": "WOODERA. Премиальная двойная защита Borma Wachs. Стол из цельного спила горного карагача.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Премиальная двойная защита Borma Wachs"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Два этапа финиша от итальянского производителя: грунтовочное масло подчёркивает глубину древесины, твёрдый карнаубский воск формирует дополнительный защитный слой. Покрытие шелковисто-матовое, приятное на ощупь."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-karagach-71x52/desktop/IMG_8285.jpeg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-karagach-71x52/mobile/IMG_8276.jpeg",
+            "alt": "WOODERA. Надёжная конструкция. Стол из цельного спила горного карагача.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Надёжная конструкция"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Три чёрные металлические ножки-шпильки из трёх прутков каждая сочетают основательность массива с визуальной лёгкостью. Для крепления предусмотрены мебельные резьбовые футорки."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-karagach-71x52/desktop/IMG_8286.jpeg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-karagach-71x52/mobile/IMG_8277.jpeg",
+            "alt": "WOODERA. В центре уютного интерьера. Стол из цельного спила горного карагача.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "В центре уютного интерьера"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Небольшой дизайнерский кофейный столик из спила дерева станет выразительным акцентом гостиной, кабинета или зоны отдыха. Тёплый природный рисунок гармонирует с нейтральной палитрой современного интерьера."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-karagach-71x52/desktop/IMG_8287.jpeg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/gornyy-karagach-71x52/mobile/IMG_8278.jpeg",
+            "alt": "WOODERA. Ваш единственный экземпляр. Стол из цельного спила горного карагача.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 1000,
+            "heightMobile": 1000
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Ваш единственный экземпляр"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "В мире одинаковых вещей особенно ценны предметы с собственным характером. Вы получаете именно тот стол WOODERA, который представлен на фотографиях: природную красоту невозможно воспроизвести дважды."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    }
+  ]
+}
