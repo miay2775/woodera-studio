@@ -1,0 +1,64 @@
+{
+  "product": {
+    "wood": "карагач",
+    "top_cm": [
+      62,
+      57
+    ],
+    "thickness_cm": 5,
+    "height_cm": 45,
+    "weight_kg": 9.5
+  },
+  "modules": [
+    {
+      "file": "01_character.jpg",
+      "source": "exec-3e10f4ac-2b7a-4e3f-852b-7c73fe4870e0.png",
+      "title": "Живой характер вашей гостиной"
+    },
+    {
+      "file": "02_interior.jpg",
+      "source": "exec-428d57fd-27cb-4fa6-aa28-9bd4a72f9469.png",
+      "title": "Красивое место для паузы"
+    },
+    {
+      "file": "03_top_view.jpg",
+      "source": "exec-4dde388e-8d9c-4e0d-9b38-ac7f9e6ed224.png",
+      "title": "Рисунок, созданный природой"
+    },
+    {
+      "file": "04_slab.jpg",
+      "source": "exec-eadb2160-7866-475a-a0a4-db5c46f34bae.png",
+      "title": "Красота цельного дерева"
+    },
+    {
+      "file": "05_texture.jpg",
+      "source": "exec-4f3bb1d9-3bd6-45da-9802-cb3802205185.png",
+      "title": "Красота в деталях"
+    },
+    {
+      "file": "06_finish.jpg",
+      "source": "exec-01c6a638-b666-4990-af6a-956f0b3f45ff.png",
+      "title": "Масло и воск. Двойной финиш"
+    },
+    {
+      "file": "07_legs.jpg",
+      "source": "exec-4c52147b-1626-4118-aaa2-256689d94520.png",
+      "title": "Три прутка. Лёгкий силуэт"
+    },
+    {
+      "file": "08_parameters.jpg",
+      "source": "exec-95b2c333-f5fb-491f-a3b4-cb8d79164d17.png",
+      "title": "Ваш стол в деталях"
+    }
+  ],
+  "formats": {
+    "mobile": [
+      960,
+      960
+    ],
+    "desktop": [
+      1440,
+      720
+    ]
+  }
+}

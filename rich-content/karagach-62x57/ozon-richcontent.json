@@ -1,0 +1,389 @@
+{
+  "version": 0.3,
+  "content": [
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/karagach-62x57/desktop/01_character.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/karagach-62x57/mobile/01_character.jpg",
+            "alt": "WOODERA. Живой характер вашей гостиной. Натуральное дерево. Природная форма. Выразительный акцент рядом с диваном.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 960
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Живой характер вашей гостиной"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Журнальный столик WOODERA из цельного торцевого спила карагача — небольшой кофейный стол для гостиной, кабинета или зоны отдыха. Натуральное дерево, выразительные годовые кольца и чёрные металлические ножки создают спокойный интерьерный акцент."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/karagach-62x57/desktop/02_interior.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/karagach-62x57/mobile/02_interior.jpg",
+            "alt": "WOODERA. Красивое место для паузы. Для книги, чашки кофе и любимых вещей под рукой.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 960
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Красивое место для паузы"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Деревянный журнальный стол удобно расположить перед диваном или рядом с креслом. На столешнице найдётся место для книги, чашки на подставке и небольшого декора. Кофейный столик из спила дерева сочетается со скандинавским интерьером, эко-стилем и лофтом."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/karagach-62x57/desktop/03_top_view.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/karagach-62x57/mobile/03_top_view.jpg",
+            "alt": "WOODERA. Рисунок, созданный природой. Два центра годовых колец, светлая полоса и естественный контур настоящего спила.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 960
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Рисунок, созданный природой"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Вид сверху раскрывает рисунок этого спила карагача: два центра годовых колец, светлую полосу древесины, сучки и естественные линии трещин. Контур столешницы сохранён природным. Размер 62 × 57 см указан по габаритам спила; форма не является правильной окружностью."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/karagach-62x57/desktop/04_slab.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/karagach-62x57/mobile/04_slab.jpg",
+            "alt": "WOODERA. Красота цельного дерева. Выразительный торец и плавный край. Фактура, которую хочется рассматривать.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 960
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Красота цельного дерева"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Столешница толщиной 5 см выполнена из цельного торцевого спила карагача. Крупный план показывает структуру торца, переходы оттенков и линии природных трещин. Эти особенности формируют внешний характер конкретного стола."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/karagach-62x57/desktop/05_texture.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/karagach-62x57/mobile/05_texture.jpg",
+            "alt": "WOODERA. Красота в деталях. Тонкие волокна, кольца и сучки сохраняют индивидуальность древесины.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 960
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Красота в деталях"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "На макрофотографии видны тонкие волокна, годовые кольца и тёмные участки сучков. Природные различия в оттенках и фактуре делают журнальный стол из карагача выразительным без дополнительного декора. Освещение и экран могут влиять на восприятие цвета."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/karagach-62x57/desktop/06_finish.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/karagach-62x57/mobile/06_finish.jpg",
+            "alt": "WOODERA. Масло и воск. Двойной финиш. Шелковисто-матовая поверхность подчёркивает глубину рисунка древесины.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 960
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Масло и воск. Двойной финиш"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Финишная обработка сочетает итальянское масло и твёрдый карнаубский воск. Масло подчёркивает рисунок натурального дерева, воск создаёт дополнительный защитный слой. Шелковисто-матовое покрытие сохраняет спокойный сатиновый блик. Для горячей или влажной посуды используйте подставки."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/karagach-62x57/desktop/07_legs.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/karagach-62x57/mobile/07_legs.jpg",
+            "alt": "WOODERA. Три прутка. Лёгкий силуэт. Три металлические ножки-шпильки. В каждой — три прутка.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 960
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Три прутка. Лёгкий силуэт"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Три чёрные металлические ножки-шпильки состоят из трёх прутков каждая. Порошковая окраска завершает лаконичный силуэт. Ножки крепятся к столешнице через монтажные пластины на мебельные резьбовые футорки. Общая высота стола с ножками — 45 см; вес изделия — 9,5 кг."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/karagach-62x57/desktop/08_parameters.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/karagach-62x57/mobile/08_parameters.jpg",
+            "alt": "WOODERA. Ваш стол в деталях. Столешница — 62 × 57 см. Высота с ножками — 45 см. Толщина спила — 5 см. Вес — 9,5 кг.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 960
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Ваш стол в деталях"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Параметры журнального стола WOODERA: столешница 62 × 57 см, толщина 5 см, высота с ножками 45 см, вес 9,5 кг. Для ухода используйте мягкую слегка влажную салфетку и вытирайте поверхность насухо. Не оставляйте воду на столешнице и не размещайте стол вплотную к источнику тепла."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    }
+  ]
+}
