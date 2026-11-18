@@ -1,0 +1,245 @@
+{
+  "version": 0.3,
+  "content": [
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://woodera-studio.ru/rich-content/topol-kap-51x51/desktop/01-table.jpg",
+            "srcMobile": "https://woodera-studio.ru/rich-content/topol-kap-51x51/mobile/01-table.jpg",
+            "alt": "Журнальный стол WOODERA из капового горного тополя на чёрных ножках-шпильках рядом с зелёным диваном.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 1200
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Цельный слэб капового тополя"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Круглый журнальный стол WOODERA сделан из цельного слэба капового горного тополя. Светлая древесина с медовым оттенком сочетается с тонкими чёрными ножками. У дивана стол послужит кофейным, а рядом с креслом — приставным столиком для книги и чашки."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://woodera-studio.ru/rich-content/topol-kap-51x51/desktop/02-grain.jpg",
+            "srcMobile": "https://woodera-studio.ru/rich-content/topol-kap-51x51/mobile/02-grain.jpg",
+            "alt": "Круглая столешница сверху: светлый кап горного тополя с волнистым рисунком волокон и тёмными прожилками.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 1200
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Рисунок одного дерева"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "На одном слэбе широкие волны волокон сменяются мелкими завитками капа. Тёмные прожилки проходят сквозь светлую древесину и образуют рисунок, по которому можно узнать именно этот стол."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://woodera-studio.ru/rich-content/topol-kap-51x51/desktop/03-finish.jpg",
+            "srcMobile": "https://woodera-studio.ru/rich-content/topol-kap-51x51/mobile/03-finish.jpg",
+            "alt": "Крупный план столешницы при боковом свете: мягкий блик подчёркивает естественную текстуру под маслом и воском.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 1200
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Мягкий сатиновый блеск"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Для двойной защиты использованы экологичные итальянские материалы. Сначала древесину пропитывают маслом: так яснее видны переливы волокон. Затем наносят твёрдый карнаубский воск. Он защищает поверхность и придаёт ей мягкий сатиновый блеск, особенно заметный в боковом свете."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://woodera-studio.ru/rich-content/topol-kap-51x51/desktop/04-edge.jpg",
+            "srcMobile": "https://woodera-studio.ru/rich-content/topol-kap-51x51/mobile/04-edge.jpg",
+            "alt": "Макрофотография скруглённой кромки толщиной 3,5 см, узора капа и стабилизированной прозрачной смолой трещины.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 1200
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Мягкое скругление по всему краю"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "У столешницы толщиной 3,5 см плавно скруглена кромка. За счёт этого массив выглядит легче в профиль и приятен на ощупь. Все трещины заполнены и стабилизированы прозрачной смолой: их естественные очертания и рисунок дерева остаются видны."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://woodera-studio.ru/rich-content/topol-kap-51x51/desktop/05-size.jpg",
+            "srcMobile": "https://woodera-studio.ru/rich-content/topol-kap-51x51/mobile/05-size.jpg",
+            "alt": "Столик сбоку и крепления ножек снизу. Диаметр 51 см, высота 43,5 см, толщина 3,5 см, вес 5 кг.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 1200
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Для книги, чашки и любимого кресла"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Диаметр столешницы — 51 см, высота стола с ножками — 43,5 см, толщина столешницы — 3,5 см, вес — 5 кг. Три чёрные металлические ножки-шпильки крепятся к массиву саморезами. Столик легко переставить от дивана к креслу."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    }
+  ]
+}
