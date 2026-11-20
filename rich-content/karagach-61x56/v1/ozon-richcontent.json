@@ -1,0 +1,245 @@
+{
+  "version": 0.3,
+  "content": [
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://woodera-studio.ru/rich-content/karagach-61x56/v1/desktop/01-table.jpg",
+            "srcMobile": "https://woodera-studio.ru/rich-content/karagach-61x56/v1/mobile/01-table.jpg",
+            "alt": "Журнальный стол WOODERA из горного карагача в гостиной и крупный план годовых колец.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 1200
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Журнальный стол из цельного спила"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Столешница WOODERA сделана из одного поперечного спила горного карагача. Светлая наружная древесина обрамляет коричневую сердцевину, а тонкие чёрные ножки оставляют открытым силуэт стола."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://woodera-studio.ru/rich-content/karagach-61x56/v1/desktop/02-grain.jpg",
+            "srcMobile": "https://woodera-studio.ru/rich-content/karagach-61x56/v1/mobile/02-grain.jpg",
+            "alt": "Вид сверху: светлая кайма, годовые кольца и тёмная линия, уходящая к краю спила.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 1200
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Рисунок именно этого дерева"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Годовые кольца огибают сучки и повторяют изгибы края. От сердцевины к светлой кайме тянется тёмная линия с характерным изломом — по ней легко узнать этот экземпляр на фотографиях с разных сторон."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://woodera-studio.ru/rich-content/karagach-61x56/v1/desktop/03-finish.jpg",
+            "srcMobile": "https://woodera-studio.ru/rich-content/karagach-61x56/v1/mobile/03-finish.jpg",
+            "alt": "Два крупных плана поверхности карагача: сатиновый блик и естественная тёмная линия.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 1200
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Двойная защита: масло и карнаубский воск"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Масло подчёркивает рисунок волокон, а твёрдый карнаубский воск создаёт защитный слой с мягким сатиновым блеском. При боковом дневном свете в древесине заметны серо-коричневые оттенки, при тёплом освещении проступают медовые тона. На всех фотографиях — один стол."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://woodera-studio.ru/rich-content/karagach-61x56/v1/desktop/04-edge.jpg",
+            "srcMobile": "https://woodera-studio.ru/rich-content/karagach-61x56/v1/mobile/04-edge.jpg",
+            "alt": "Край столешницы крупным планом: видны светлый торец и переход от коричневой сердцевины.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 1200
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Светлая кромка спила"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Толщина столешницы — 5 см. На общем плане светлая полоса очерчивает силуэт стола, а вблизи видно, как последние годовые кольца следуют за плавным изгибом края."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://woodera-studio.ru/rich-content/karagach-61x56/v1/desktop/05-size.jpg",
+            "srcMobile": "https://woodera-studio.ru/rich-content/karagach-61x56/v1/mobile/05-size.jpg",
+            "alt": "Каталожный вид стола и крепление металлической ножки с нижней стороны столешницы.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 720,
+            "widthMobile": 960,
+            "heightMobile": 1200
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Размеры и крепление ножек"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Размер столешницы — 61 × 56 см. Высота стола в сборе — 45 см, вес — 11,5 кг. Ножки-шпильки закреплены винтами в резьбовых футорках: для перевозки их можно снять, а затем установить обратно. Безопасность изделия подтверждена протоколом испытаний и декларацией о соответствии."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    }
+  ]
+}
