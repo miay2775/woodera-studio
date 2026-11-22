@@ -1,0 +1,301 @@
+{
+  "version": 0.3,
+  "content": [
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/walnut-64x57/desktop/01-exclusive.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/walnut-64x57/mobile/01-exclusive.jpg",
+            "alt": "Два общих ракурса орехового стола WOODERA в светлой гостиной: цельный спил на чёрных ножках-шпильках.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 960,
+            "widthMobile": 960,
+            "heightMobile": 640
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Единственный. Ваш."
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Авторский журнальный стол WOODERA из цельного спила грецкого ореха существует в одном экземпляре. Светлый край, тёмная сердцевина и природная форма создают акцент, вокруг которого хочется собрать любимые вещи. Вы получаете именно стол с фотографий."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/walnut-64x57/desktop/02-solid-walnut.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/walnut-64x57/mobile/02-solid-walnut.jpg",
+            "alt": "Вид столешницы сверху и крупный план трещины с эпоксидной смолой; светлая древесина вокруг тёмной сердцевины.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 960,
+            "widthMobile": 960,
+            "heightMobile": 640
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Цельный спил. Рисунок без повторений."
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Грецкий орех — ценная твёрдая порода с выразительной текстурой и благородными оттенками. Годичные кольца раскрывают историю дерева, а тёмная сердцевина делает этот спил узнаваемым. Столешница выполнена из цельного массива; природные трещины заполнены эпоксидной смолой."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/walnut-64x57/desktop/03-live-edge.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/walnut-64x57/mobile/03-live-edge.jpg",
+            "alt": "Два крупных плана природного края ореховой столешницы толщиной 5 см.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 960,
+            "widthMobile": 960,
+            "heightMobile": 640
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Живой край. Настоящие 5 см массива."
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Естественный контур спила сохранён по всему периметру. Переходы оттенков и фактура боковой поверхности подчёркивают красоту цельного дерева. Размер столешницы по крайним точкам — 64×57 см, толщина — 5 см."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/walnut-64x57/desktop/04-finish.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/walnut-64x57/mobile/04-finish.jpg",
+            "alt": "Фактура ореха и мягкие сатиновые блики на поверхности столешницы и эпоксидной смолы.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 550,
+            "widthMobile": 960,
+            "heightMobile": 367
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Двойная защита. Мягкий сатиновый блеск."
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Сначала древесину пропитывают маслом, чтобы раскрыть рисунок волокон, усилить глубину оттенков и защитить массив. Затем наносят премиальный пчелиный воск Borma — завершающий защитный слой. Итальянские материалы Borma подчёркивают красоту ореха и придают поверхности мягкий сатиновый блеск."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/walnut-64x57/desktop/05-assembly.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/main/rich-content/walnut-64x57/mobile/05-assembly.jpg",
+            "alt": "Общий вид стола сбоку и крепление металлических ножек с нижней стороны столешницы.",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1440,
+            "height": 960,
+            "widthMobile": 960,
+            "heightMobile": 640
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Продумано до последнего крепления."
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Чёрные металлические ножки-шпильки крепятся к столешнице через металлические резьбовые футорки. Стол поставляется в разобранном виде; необходимый крепёж и шестигранный ключ входят в комплект. Общая высота с ножками — 45 см, вес стола — 11,5 кг."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Безопасность подтверждена декларацией"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "На стол оформлена декларация о соответствии требованиям ТР ТС 025/2012 «О безопасности мебельной продукции». Авторская мебель WOODERA сочетает индивидуальность натурального дерева и подтверждённое соответствие требованиям безопасности."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Красота, о которой легко заботиться"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Используйте подставки под горячую посуду и напитки. Пролитую жидкость сразу удаляйте мягкой салфеткой, после влажной уборки вытирайте поверхность насухо. Избегайте абразивных средств и длительного контакта с водой."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    }
+  ]
+}
