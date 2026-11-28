@@ -1,0 +1,313 @@
+{
+  "version": 0.3,
+  "content": [
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/ozon-022-media/rich-content/elm-91x81-022/gallery/01.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/ozon-022-media/rich-content/elm-91x81-022/gallery/01.jpg",
+            "alt": "Журнальный стол WOODERA из горного карагача на двух чёрных опорах",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1086,
+            "height": 1448,
+            "widthMobile": 1086,
+            "heightMobile": 1448
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Один карагач. Один стол."
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "У этого спила свой рисунок: тёмная отметина у сердцевины, широкие изгибы колец и светлый край. Именно этот экземпляр WOODERA с фотографий окажется у вас дома."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/ozon-022-media/rich-content/elm-91x81-022/gallery/03.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/ozon-022-media/rich-content/elm-91x81-022/gallery/03.jpg",
+            "alt": "Живой край и рисунок годичных колец при взгляде сверху",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1086,
+            "height": 1448,
+            "widthMobile": 1086,
+            "heightMobile": 1448
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Годы роста видны в кольцах"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "На виде сверху видно, как древесина год за годом нарастала вокруг сердцевины. Трещины заполнены эпоксидной смолой. Её тёмные линии позволяют проследить естественные разломы поперёк колец."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/ozon-022-media/rich-content/elm-91x81-022/gallery/06.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/ozon-022-media/rich-content/elm-91x81-022/gallery/06.jpg",
+            "alt": "Годичные кольца карагача и сатиновая поверхность",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1448,
+            "height": 1086,
+            "widthMobile": 1448,
+            "heightMobile": 1086
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Массив, который хочется трогать"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Толщина спила — 8,5 см. У кромки видна светлая наружная древесина, ближе к центру оттенок глубже. Итальянское масло подчёркивает эти переходы, а слой твёрдого воска даёт поверхности мягкий сатиновый блеск."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/ozon-022-media/rich-content/elm-91x81-022/gallery/05.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/ozon-022-media/rich-content/elm-91x81-022/gallery/05.jpg",
+            "alt": "Светлая наружная часть горного карагача",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1086,
+            "height": 1448,
+            "widthMobile": 1086,
+            "heightMobile": 1448
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Как стол встанет рядом с диваном"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "По крайним точкам столешница занимает 91 × 81 см. При высоте 50 см на ней удобно разместить кофейный поднос, книгу и настольную игру. Живой край особенно хорошо виден на фоне однотонного ковра или гладкого пола."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/ozon-022-media/rich-content/elm-91x81-022/gallery/07.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/ozon-022-media/rich-content/elm-91x81-022/gallery/07.jpg",
+            "alt": "Высота стола и силуэт двух рамных опор",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1086,
+            "height": 1448,
+            "widthMobile": 1086,
+            "heightMobile": 1448
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Две опоры под цельный спил"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Стол весит 26 кг. Две чёрные металлические рамы устойчиво опираются на пол. Подстолье с порошковым покрытием крепится к столешнице саморезами через монтажные пластины."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/ozon-022-media/rich-content/elm-91x81-022/gallery/08.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/ozon-022-media/rich-content/elm-91x81-022/gallery/08.jpg",
+            "alt": "Крепление металлической опоры к массиву снизу",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1086,
+            "height": 1448,
+            "widthMobile": 1086,
+            "heightMobile": 1448
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "default",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Соответствие требованиям безопасности"
+          }
+        ],
+        "size": "size4",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "items": [
+          {
+            "type": "text",
+            "content": "Мебель WOODERA этой серии декларирована по ТР ТС 025/2012 «О безопасности мебельной продукции». Регистрационный номер ЕАЭС N RU Д-RU.РА10.В.85446/26. Дата регистрации — 20 ноября 2026 года, срок действия — по 19 ноября 2031 года включительно."
+          }
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/miay2775/woodera-studio/ozon-022-media/rich-content/elm-91x81-022/gallery/11.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/miay2775/woodera-studio/ozon-022-media/rich-content/elm-91x81-022/gallery/11.jpg",
+            "alt": "Декларация о соответствии ЕАЭС N RU Д-RU.РА10.В.85446/26",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "width": 1548,
+            "height": 2189,
+            "widthMobile": 1548,
+            "heightMobile": 2189
+          }
+        }
+      ]
+    }
+  ]
+}
